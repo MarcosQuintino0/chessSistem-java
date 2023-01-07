@@ -3,6 +3,8 @@
 
 # Sobre o projeto
 Esse projeto é um jogo de xadrez inteiramente desenvolvido em Java. O objetivo da aplicação é simular um jogo de xadrez entre dois jogadores, permitindo que eles movam as peças no tabuleiro. Além dos movimentos padrões, o jogo também suporta os movimentos especiais Castling, En Passant e Promotion.
+
+
 ## Layout Console
 ![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/Chss01.PNG)
 ![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/Chss02.PNG)
@@ -13,6 +15,9 @@ Esse projeto é um jogo de xadrez inteiramente desenvolvido em Java. O objetivo 
 -Movimentação das peças no tabuleiro de acordo com as regras de xadrez
 
 -Suporte aos movimentos especiais Castling, En Passant e Promotion
+
+## Modelo Conceitual
+![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/chess-system-design.png)
 
 # Tecnologias utilizadas
 ## Back end
